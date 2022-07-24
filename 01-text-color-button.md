@@ -31,6 +31,7 @@ With ***class = " "***  inline defines tag attributes. This property is very imp
 - **font-weight-normal** :	Normal text
 
 
+# BOOTSTRAP COLORS
 - .text-muted > muted text
 - .text-primary > blue
 - .text-success > green
