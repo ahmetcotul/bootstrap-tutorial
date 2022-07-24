@@ -29,3 +29,30 @@ With ***class = " "***  inline defines tag attributes. This property is very imp
 - **font-weight-light** :	Light weight text	
 - **font-weight-lighter** :	Lighter weight text	
 - **font-weight-normal** :	Normal text
+
+
+- .text-muted > muted text
+- .text-primary > blue
+- .text-success > green
+- .text-info > turquoise
+- .text-warning > yellow
+- .text-danger > red
+- .text-secondary > grey
+- .text-white > white
+- .text-dark > black
+- .text-body (default body color/often black) 
+- .text-light > light mode
+
+
+# BLOCKQUOTE BOOTSTRAP
+```HTML
+<blockquote class="blockquote text-center">
+  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+</blockquote>
+```
+
+[![https://imgur.com/jlZJCv2.png](https://imgur.com/jlZJCv2.png)](https://imgur.com/jlZJCv2.png)
+
+
+
