@@ -1,5 +1,6 @@
 # bootstrap-tutorial
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="200" height="160"/>
+It is a css framework defined on classes.
 
 
 ## Content
