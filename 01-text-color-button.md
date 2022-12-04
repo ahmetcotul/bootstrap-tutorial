@@ -12,6 +12,7 @@ With ***class = " "***  inline defines tag attributes. This property is very imp
 - **text-uppercase** : Indicates uppercased text
 - **text-capitalize** : Indicates capitalized text
 - **text-muted** : Indicates muted text
+[![./images/text-property1.png](./images/text-property1.png)](./images/text-property1.png)
 
 # BOOTSTRAP DISPLAY
 [![https://imgur.com/yDChHK9.png](https://imgur.com/yDChHK9.png)](https://imgur.com/yDChHK9.png)
