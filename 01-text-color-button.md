@@ -12,6 +12,15 @@ With ***class = " "***  inline defines tag attributes. This property is very imp
 - **text-uppercase** : Indicates uppercased text
 - **text-capitalize** : Indicates capitalized text
 - **text-muted** : Indicates muted text
+
+```html
+<hr>
+  <p class="text-lowercase">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, doloremque!</p><hr>
+  <p class="text-uppercase">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem, culpa!</p><hr>
+  <p class="text-capitalize">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur, dignissimos!</p><hr>
+  <p class="text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, inventore.</p>
+<hr>
+```
 [![./images/text-property1.png](./images/text-property1.png)](./images/text-property1.png)
 
 # BOOTSTRAP DISPLAY
