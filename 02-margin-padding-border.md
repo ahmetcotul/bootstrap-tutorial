@@ -32,15 +32,17 @@
 - **border-left** : sol kenar
 " -0 " verirsek devamında çizgi yok olur...
 
+![./images/border.png](./images/border.png)
+
 ÖRNEK KULLANIM: 
 
 ```HTML
-<span class="border"></span>
-<span class="border border-0"></span>
-<span class="border border-top-0"></span>
-<span class="border border-right-0"></span>
-<span class="border border-bottom-0"></span>
-<span class="border border-left-0"></span>
+<<span class="border">Example</span>&nbsp;
+<span class="border-top">Example</span>&nbsp;
+<span class="border-end">Example</span>&nbsp;
+<span class="border-bottom">Example</span>&nbsp;
+<span class="border-start">Example</span>&nbsp;
+
 
 ```
 
@@ -65,6 +67,11 @@ Eğer ki devamında " -renk " değerleri alırsa renk alır
 - pb = padding bottom 
 - px = padding x eksenindeki hali
 - py = padding y eksenindeki hali 
+
+```HTML
+
+
+```
 
 # BOOTSTRAP MARGIN
 -0 -1 -2 -3 -4 -5 değerlerine göre boşluk bırakır 
