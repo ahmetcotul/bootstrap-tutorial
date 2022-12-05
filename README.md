@@ -6,8 +6,11 @@ It is a css framework defined on tag classes and html tags.
 ## Content
 1. [How to Add Bootstrap?](#how-to)
 2. [Download Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/download/)
-3. [Bootstrap TeXt](./01-text-color-button.md)
-4. [Bootstrap Button](./02-margin-padding-border.md)
+3. [Bootstrap Text Properties](./01-text-color-button.md)
+4. [Bootstrap Size And Border](./02-margin-padding-border.md#bootstrap-width)
+5. [Bootstrap Padding-Margin-Display](./02-margin-padding-border.md#bootstrap-padding)
+
+
 
 ## How To?
 There is two way for bootstrap using....
