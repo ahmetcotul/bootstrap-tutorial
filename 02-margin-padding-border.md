@@ -47,13 +47,21 @@
 ```
 
 # BOOTSTRAP ROUNDED
-ovalleştirmedir açı vermedir..
+ovalleştirmedir açı vermedir.. KUllanmak için deneyiniz...
 - rounded
 - rounded - bottom 
 - rounded - top
 
-```HTML
 
+```HTML
+<img src="..." alt="..." class="rounded">
+<img src="..." alt="..." class="rounded-top">
+<img src="..." alt="..." class="rounded-right">
+<img src="..." alt="..." class="rounded-bottom">
+<img src="..." alt="..." class="rounded-left">
+<img src="..." alt="..." class="rounded-circle">
+<img src="..." alt="..." class="rounded-pill">
+<img src="..." alt="..." class="rounded-0">
 
 ```
 
